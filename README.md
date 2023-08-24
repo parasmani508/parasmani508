@@ -1,3 +1,4 @@
+![logo](https://github.com/parasmani508/parasmani508/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Paras Kumar</h1>
 <h3 align="center">A passionate Front-end Developer</h3>
 <image align="right" alt="coder" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
