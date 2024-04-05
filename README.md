@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasmani508&label=Profile%20views&color=0e75b6&style=flat" alt="parasmani508" /> </p>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **React.JS,Html,Css,Javascript,Git,Github,Bootstrap**
+- 💬 Ask me about **React.JS,Html,Css,Javascript,Git,Github,Bootstrap,Node.js,Express.js,Java,Sql,MongoDB...👍**
 
 - 📫 How to reach me **parasmani508@gmail.com**
 
