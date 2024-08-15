@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **React.JS, Html, CSS, Javascript, Git, GitHub, Bootstrap, Node.js, Express.js, Java, RestApi's, MongoDB...👍**
+- 💬 Ask me about **React.JS, Html, CSS, Javascript, Git, GitHub, Bootstrap, Node.js, Express.js, Java, REST APIs, MongoDB, JSX, Netlify, Postman, VS Code...👍**
 
 - 📫 How to reach me **parasmani508@gmail.com**
 
@@ -53,6 +53,21 @@
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/JSX" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="jsx" width="40" height="40"/> 
+  </a> 
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="restapi" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> 
   </a> 
 </p>
 
