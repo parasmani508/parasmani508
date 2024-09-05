@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **React.JS, Html, CSS, Javascript, Git, GitHub, Bootstrap, Node.js, Express.js, Java, REST APIs, MongoDB, JSX, Netlify, Postman, VS Code...👍**
+- 💬 Ask me about **React.JS, Html, CSS, Javascript, Git, GitHub,Node.js, Express.js, Java, REST APIs, MongoDB, JSX, Netlify, Postman, VS Code...👍**
 
 - 📫 How to reach me **parasmani508@gmail.com**
 
