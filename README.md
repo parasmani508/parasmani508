@@ -69,8 +69,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://d33wubrfki0l68.cloudfront.net/cc19e3636f4631ccbbdc60634333aa45939bd37b/ba1fb/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+</a>
+
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" height="40"/>
   </a>
