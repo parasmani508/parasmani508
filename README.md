@@ -1,5 +1,6 @@
-![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/parasmani508/parasmani508/blob/main/Uploading
+![Banner](![Banner](https://your-image-url.png)
 )
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
