@@ -1,4 +1,6 @@
-!([Banner](https://your-image-url.png))
+![Logo](https://github.com/parasmani508/parasmani508/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+)
+
 
 
 
