@@ -79,3 +79,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=7000&width=435&lines=Thank's+for+visiting+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </div>
+![GitHub followers](https://img.shields.io/github/followers/parasmani508?label=Follow%20Me&style=social)
+![GitHub stars](https://img.shields.io/github/stars/parasmani508?affiliations=OWNER&style=social)
+
