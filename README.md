@@ -1,4 +1,5 @@
-![Logo](https://github.com/parasmani508/parasmani508/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/user-attachments/assets/f0e6bf07-c1a4-4619-9132-b791529a5d0d)![Logo](https://github.com/parasmani508/parasmani508/blob/main/Uploading Blue Yellow Futuristic Virtual Technology Blog Banner.png…()
+)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
