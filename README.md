@@ -1,4 +1,4 @@
-![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/user-attachments/assets/f0e6bf07-c1a4-4619-9132-b791529a5d0d)![Logo](https://github.com/parasmani508/parasmani508/blob/main/Uploading
+![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/user-attachments/assets/f0e6bf07-c1a4-4619-9132-b791529a5d0d)(https://github.com/parasmani508/parasmani508/blob/main/Uploading
 )
 
 <h1 align="center">
