@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
   
-- 💬 Ask me about **React, Node.js, NestJS, GraphQL, TypeScript, JavaScript, MongoDB, REST APIs, and more...** 
+- 💬 Ask me about **Next.js,React, Node.js, NestJS, GraphQL, TypeScript, JavaScript, MongoDB, REST APIs, and more...** 
   
 - 📫 How to reach me **parasmani508@gmail.com**
 
