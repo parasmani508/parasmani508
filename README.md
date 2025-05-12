@@ -1,10 +1,5 @@
 ![Logo](https://github.com/parasmani508/parasmani508/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
-
-
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=7000&width=435&lines=Hi+%F0%9F%91%8B,+I'm+here!" alt="Typing SVG" />
@@ -13,31 +8,30 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<div align="center">
+  <img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parasmani508&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
-  
-- 💬 Ask me about **Next.js,React, Node.js, NestJS, GraphQL, TypeScript, JavaScript, MongoDB, REST APIs, and more...** 
-  
-- 📫 How to reach me **parasmani508@gmail.com**
-
+- 💬 Ask me about **Next.js, React, Node.js, NestJS, GraphQL, TypeScript, JavaScript, MongoDB, REST APIs, and more...**
+- 📫 How to reach me: **[parasmani508@gmail.com](mailto:parasmani508@gmail.com)**
 - ⚡ Fun fact: **I am funny 😅**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/parasma70943769" target="blank">
+  <a href="https://twitter.com/parasma70943769" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/paras-kumar-1b3070216" target="blank">
+  <a href="https://linkedin.com/in/paras-kumar-1b3070216" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/parasmani10" target="blank">
+  <a href="https://instagram.com/parasmani10" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -73,10 +67,9 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
- <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="NestJS" width="40" height="40"/>
-</a>
-
+  </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" height="40"/>
   </a>
@@ -96,15 +89,13 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasmani508&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasmani508&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasmani508&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasmani508&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=7000&width=435&lines=Thank+you+for+visiting+😊" alt="Thank you" />
   </a>
 </p>
-
-
-
