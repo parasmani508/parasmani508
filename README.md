@@ -106,26 +106,5 @@
   </a>
 </p>
 
-<!-- Spotify-like Profile Card -->
 
-<div style="width: 300px; border-radius: 10px; background-color: #1DB954; padding: 20px; color: white; font-family: Arial, sans-serif; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
-  <h2 style="margin: 0; font-size: 24px;">Your Name</h2>
-  <h4 style="margin: 5px 0; font-weight: normal;">@yourusername</h4>
-  <p style="margin: 10px 0;">🎵 Music Lover | 🎨 Designer | 💻 Developer</p>
-  
-  <div style="margin-top: 20px;">
-    <h4 style="margin: 0;">Top Repositories</h4>
-    <ul style="list-style: none; padding: 0;">
-      <li style="margin: 5px 0;"><strong>Repo 1</strong> - Description of your repository.</li>
-      <li style="margin: 5px 0;"><strong>Repo 2</strong> - Description of your repository.</li>
-      <li style="margin: 5px 0;"><strong>Repo 3</strong> - Description of your repository.</li>
-    </ul>
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <h4 style="margin: 0;">Connect with me</h4>
-    <a href="https://twitter.com/yourusername" style="color: white; text-decoration: none;">Twitter</a> | 
-    <a href="https://linkedin.com/in/yourusername" style="color: white; text-decoration: none;">LinkedIn</a>
-  </div>
-</div>
 
