@@ -94,8 +94,3 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasmani508&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=7000&width=435&lines=Thank+you+for+visiting+😊" alt="Thank you" />
-  </a>
-</p>
