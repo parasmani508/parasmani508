@@ -93,4 +93,22 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasmani508&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasmani508&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 </div>
+# 📊 GitHub Stats:
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=parasmani508&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parasmani508&hide_border=false&am%E2%80%A6)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=parasmani508&theme=radical&no-frame=true&%E2%80%A6)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
+---
+
+[![](https://visitcount.itsvg.in/api?id=parasmani508&icon=6&color=7)](https://visitcount.itsvg.in)
+ 
