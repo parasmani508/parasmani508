@@ -94,18 +94,6 @@ Advanced PostgreSQL, and growing **Hustlers2Developers** along the way
 
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/parasmani508?style=for-the-badge&logo=github&color=58A6FF&label=Stars)
-![Followers](https://img.shields.io/github/followers/parasmani508?style=for-the-badge&logo=github&color=58A6FF&label=Followers)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=58A6FF&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparasmani508)
-
-</div>
-
-<br/>
-
 ## ✍️ Quote of the Day
 
 <div align="center">
@@ -133,7 +121,5 @@ Advanced PostgreSQL, and growing **Hustlers2Developers** along the way
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"/>
 
 **Thanks for stopping by — go build something 🚀**
-
-[![Visits](https://visitcount.itsvg.in/api?id=parasmani508&icon=6&color=7)](https://visitcount.itsvg.in)
 
 </div>
