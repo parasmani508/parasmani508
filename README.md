@@ -81,26 +81,16 @@ Advanced PostgreSQL, and growing **Hustlers2Developers** along the way
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=parasmani508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasmani508&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani508&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
+
+<br/>
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/parasmani508/parasmani508@main/static_spotify_card.svg" alt="spotify bars" width="440"/>
 
 </div>
-
-<details>
-<summary>⚠️ <b>Cards not loading?</b></summary>
-<br/>
-These run on a shared public service that occasionally hits GitHub's rate limit.
-Refresh in a minute, or self-host your own instance for a permanent fix — I can generate the setup for you anytime.
-</details>
 
 <br/>
 
