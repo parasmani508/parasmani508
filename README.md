@@ -91,7 +91,7 @@ Advanced PostgreSQL, and growing **Hustlers2Developers** along the way
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tffzti7gfnfr6paxvod5qbvvau&cover_image=true&theme=novatorem&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tffzti7gfnfr6paxvod5qbvvau&redirect=true)
+<img src="https://cdn.jsdelivr.net/gh/parasmani508/parasmani508@main/static_spotify_card.svg" alt="spotify" width="320"/>
 
 </div>
 
