@@ -91,7 +91,7 @@ Advanced PostgreSQL, and growing **Hustlers2Developers** along the way
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/parasmani508/parasmani508@main/static_spotify_card.svg" alt="spotify" width="320"/>
+<img src="https://cdn.jsdelivr.net/gh/parasmani508/parasmani508@main/static_spotify_card.svg" alt="spotify bars" width="440"/>
 
 </div>
 
